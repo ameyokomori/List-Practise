@@ -27,7 +27,7 @@ package au.edu.uq.itee.comp3506.assn1.adts;
  * 
  * Memory efficiency: O(n).
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  *
  * @param <T>
  *            The type of element held in the bag.

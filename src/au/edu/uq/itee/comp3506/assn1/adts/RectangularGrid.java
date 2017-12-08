@@ -6,7 +6,7 @@ package au.edu.uq.itee.comp3506.assn1.adts;
  * 
  * Memory efficiency: O(1).
  * 
- * @author Weiye Zhao 44612975
+ * @author Wayne
  *
  * @param <T>
  *            The type of element held in the grid.
